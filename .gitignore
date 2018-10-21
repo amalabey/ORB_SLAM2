@@ -19,6 +19,14 @@ Thirdparty/g2o/config.h
 Thirdparty/g2o/lib/
 Vocabulary/ORBvoc.txt
 build/
+build_old/
 *~
 lib/
-
+debug/
+Examples/ROS/ORB_SLAM2/CMakeFiles/**
+Examples/ROS/ORB_SLAM2/catkin/catkin_generated/**
+Examples/ROS/ORB_SLAM2/catkin_generated/**
+devel/
+Examples/ROS/ORB_SLAM2/gtest/*
+Examples/ROS/ORB_SLAM2/CMakeCache.txt
+Examples/Monocular/euroc_dataset/MH_01_easy.zip
